@@ -8,3 +8,11 @@
 get a better structure of my js code.
 
 **Link to work:** [Weather App](http://codepen.io/daaon/pen/EyYBrN)
+
+### Day 2: October 4, 2016
+
+**Today's Progress**: Finished FreeCodeCamp Weather App project
+
+**Thoughts:** Learned how to fit and center a background image to the body with css. Havn't fixed the structure of the js code, but it works all fine for now. 
+
+**Link to work:** [Weather App](http://codepen.io/daaon/pen/EyYBrN)
