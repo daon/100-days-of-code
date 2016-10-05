@@ -16,3 +16,11 @@ get a better structure of my js code.
 **Thoughts:** Learned how to fit and center a background image to the body with css. Havn't fixed the structure of the js code, but it works all fine for now. 
 
 **Link to work:** [Weather App](http://codepen.io/daaon/pen/EyYBrN)
+
+### Day 3: October 5, 2016
+
+**Today's Progress**: Started on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Taking the approach of creating a jquery plugin this time. Feels like a better approach for this type of projects. Will se if I will return to the old projects and convert them to jquery plugins instead. 
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
