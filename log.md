@@ -24,3 +24,11 @@ get a better structure of my js code.
 **Thoughts:** Taking the approach of creating a jquery plugin this time. Feels like a better approach for this type of projects. Will se if I will return to the old projects and convert them to jquery plugins instead. 
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 4: October 6, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Struggled a bit with structuring multiple jquery plugins in one file. Also hade some truble getting the api request to work. But after learning how to use jsonp with jquery I got it to work.
+
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
