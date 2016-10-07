@@ -32,3 +32,11 @@ get a better structure of my js code.
 **Thoughts:** Struggled a bit with structuring multiple jquery plugins in one file. Also hade some truble getting the api request to work. But after learning how to use jsonp with jquery I got it to work.
 
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 5: October 7, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Tried to work on airplan but wifi was to bad. Enden up working late instead. Have to plan better next time. Tried to figure out how to parse the request, did not make any progress.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
