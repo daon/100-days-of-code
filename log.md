@@ -40,3 +40,12 @@ get a better structure of my js code.
 **Thoughts:** Tried to work on airplan but wifi was to bad. Enden up working late instead. Have to plan better next time. Tried to figure out how to parse the request, did not make any progress.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+
+### Day 6: October 8, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Worked on parsing the search result from the Wikipedia API. Have to figure out how to best clear the search result [html] when a new request is made.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
