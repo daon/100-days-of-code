@@ -50,7 +50,7 @@ get a better structure of my js code.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
 
-### Day 7: October 8, 2016
+### Day 7: October 9, 2016
 
 **Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
 
