@@ -49,3 +49,11 @@ get a better structure of my js code.
 **Thoughts:** Worked on parsing the search result from the Wikipedia API. Have to figure out how to best clear the search result [html] when a new request is made.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 7: October 8, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Added some animatations but have to tweak it a bit, it is way to slow right now. Most of the functionality is done but have to work on the design.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
