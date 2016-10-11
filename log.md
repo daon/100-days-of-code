@@ -65,3 +65,11 @@ get a better structure of my js code.
 **Thoughts:** Tried to separate the search input and the result in two plugins. Having some truble with 'this'. When I am invoking the method to update the search result in my result plugin, 'this' is an instance of the search input plugin. Has to have something to do with that both are named 'Plugin' or something. Should look into that next time.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 9: October 11, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Got the search functionality to work. I feel that it should be a better way to have the jQuery plugins subcribe and publish to events but my solutions was the best one I could come up with.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
