@@ -57,3 +57,11 @@ get a better structure of my js code.
 **Thoughts:** Added some animatations but have to tweak it a bit, it is way to slow right now. Most of the functionality is done but have to work on the design.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 8: October 10, 2016
+
+**Today's Progress**: Continue on FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Tried to separate the search input and the result in two plugins. Having some truble with 'this'. When I am invoking the method to update the search result in my result plugin, 'this' is an instance of the search input plugin. Has to have something to do with that both are named 'Plugin' or something. Should look into that next time.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
