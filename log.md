@@ -73,3 +73,11 @@ get a better structure of my js code.
 **Thoughts:** Got the search functionality to work. I feel that it should be a better way to have the jQuery plugins subcribe and publish to events but my solutions was the best one I could come up with.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 10: October 11, 2016
+
+**Today's Progress**: Finished FreeCodeCamp Wikipedia Viewer project
+
+**Thoughts:** Went for a pretty simple design but I am happy with it. Next project i will try not to use bootstrap, and have more fun with the design.
+ 
+**Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
