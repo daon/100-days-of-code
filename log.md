@@ -74,7 +74,7 @@ get a better structure of my js code.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
 
-### Day 10: October 11, 2016
+### Day 10: October 12, 2016
 
 **Today's Progress**: Finished FreeCodeCamp Wikipedia Viewer project
 
