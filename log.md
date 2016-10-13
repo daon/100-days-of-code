@@ -81,3 +81,11 @@ get a better structure of my js code.
 **Thoughts:** Went for a pretty simple design but I am happy with it. Next project i will try not to use bootstrap, and have more fun with the design.
  
 **Link to work:** [Wikipedia Viewer](http://codepen.io/daaon/pen/qapXXb)
+
+### Day 11: October 13, 2016
+
+**Today's Progress**: Started on FreeCodeCamp Twitch Streams project
+
+**Thoughts:** This time I have taken the approach of not using bootstrap or jquery. The reason being I want to have clear understanding of CSS and a solid foundation of plain JavaScript. If I use something that I need to look more into while coding I will use a comment TOLEARN, so I know next time what I should look into. 
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
