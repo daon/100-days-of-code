@@ -89,3 +89,11 @@ get a better structure of my js code.
 **Thoughts:** This time I have taken the approach of not using bootstrap or jquery. The reason being I want to have clear understanding of CSS and a solid foundation of plain JavaScript. If I use something that I need to look more into while coding I will use a comment TOLEARN, so I know next time what I should look into. 
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 12: October 14, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project
+
+**Thoughts:** Learned how to use querySelector and createElement. 
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
