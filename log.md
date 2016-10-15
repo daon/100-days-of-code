@@ -97,3 +97,11 @@ get a better structure of my js code.
 **Thoughts:** Learned how to use querySelector and createElement. 
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 13: October 15, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project
+
+**Thoughts:** I can see that working with Vanilla JS to dynamically create DOM elements can fast become tedious work. 
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
