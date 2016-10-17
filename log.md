@@ -113,3 +113,11 @@ get a better structure of my js code.
 **Thoughts:** I'm wondering if I should use JavaScript prototypes or not.
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 15: October 17, 2016
+
+**Today's Progress**: Mob Programming Event
+
+**Thoughts:** This day was a little different. I learned a lot by expirence how it is to mob program. And I also learned how to set up simple React Native App. 
+ 
+**Link to work:** [React Native Demo App](https://github.com/jim-nystrom/OneAgencyDemo)
