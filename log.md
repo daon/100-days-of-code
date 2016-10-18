@@ -121,3 +121,11 @@ get a better structure of my js code.
 **Thoughts:** This day was a little different. I learned a lot by expirence how it is to mob program. And I also learned how to set up simple React Native App. 
  
 **Link to work:** [React Native Demo App](https://github.com/jim-nystrom/OneAgencyDemo)
+
+### Day 16: October 18, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project. I can list online and offline streams. I can also filter beetween 'All', 'Online' and 'Offline' streams. 
+
+**Thoughts:** Rewriten most of the code because I had a hard time figuring out a god way to construct the DOM elements. 
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
