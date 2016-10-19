@@ -129,3 +129,11 @@ get a better structure of my js code.
 **Thoughts:** Rewriten most of the code because I had a hard time figuring out a god way to construct the DOM elements. 
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 17: October 19, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project. Added alerts for not found channels. Started on mobile first design.
+
+**Thoughts:** I have quite a good flow now, and it is quite easy to get started each day. The bad part is that i easly lose track of time.
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
