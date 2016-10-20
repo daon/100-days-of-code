@@ -137,3 +137,11 @@ get a better structure of my js code.
 **Thoughts:** I have quite a good flow now, and it is quite easy to get started each day. The bad part is that i easly lose track of time.
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 18: October 20, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project. Continued on mobile design. Worked with animations.
+
+**Thoughts:** Next project I build I think I will not build it directly in codepen.io. I think it would be alot easier to build the project in a code editor. But I will probably host the project on codepen when I am done.
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
