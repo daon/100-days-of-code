@@ -145,3 +145,11 @@ get a better structure of my js code.
 **Thoughts:** Next project I build I think I will not build it directly in codepen.io. I think it would be alot easier to build the project in a code editor. But I will probably host the project on codepen when I am done.
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 19: October 21, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project. Continued on mobile design. Worked with relative positioning.
+
+**Thoughts:** Hade a nice flow today despite the fact that I coded on a train.
+ 
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
