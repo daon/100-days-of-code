@@ -153,3 +153,11 @@ get a better structure of my js code.
 **Thoughts:** Hade a nice flow today despite the fact that I coded on a train.
  
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 20: October 22, 2016
+
+**Today's Progress**: Continued on FreeCodeCamp Twitch Streams project. Continued on mobile design. Changed color scheme, and started to play around with the online/offline status.
+
+**Thoughts:** Tried to get some work done at my friends place but had some problem to concentrate.
+
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
