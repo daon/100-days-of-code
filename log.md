@@ -161,3 +161,11 @@ get a better structure of my js code.
 **Thoughts:** Tried to get some work done at my friends place but had some problem to concentrate.
 
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 21: October 23, 2016
+
+**Today's Progress**: Finished FreeCodeCamp Twitch Streams project. Changed the design so the status of the channel was clearer. Designed the filter buttons.
+
+**Thoughts:** Coded once again on the train, and it was a good experience this time also.
+
+**Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
