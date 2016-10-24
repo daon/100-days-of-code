@@ -169,3 +169,14 @@ get a better structure of my js code.
 **Thoughts:** Coded once again on the train, and it was a good experience this time also.
 
 **Link to work:** [Twitch Streams](http://codepen.io/daaon/full/zKaVEq)
+
+### Day 22: October 24, 2016
+
+**Today's Progress**: Finished two intermediate algorithm scripting challenges.
+
+**Thoughts:** The challenges I have done before have been quite easy for me to manage. But these new one are a bit more challenging. 
+
+**Link to work:** 
+1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
+2. [Diff Two Arrays ](https://www.freecodecamp.com/challenges/diff-two-arrays)
+
