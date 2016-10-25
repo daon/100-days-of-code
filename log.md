@@ -180,3 +180,11 @@ get a better structure of my js code.
 1. [Sum All Numbers in a Range](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
 2. [Diff Two Arrays ](https://www.freecodecamp.com/challenges/diff-two-arrays)
 
+### Day 23: October 25, 2016
+
+**Today's Progress**: Finished the Roman Numeral Converter algorithm scripting challenge.
+
+**Thoughts:** Phew, that was a challenging one.
+
+**Link to work:** [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
