@@ -188,3 +188,13 @@ get a better structure of my js code.
 
 **Link to work:** [Roman Numeral Converter](https://www.freecodecamp.com/challenges/roman-numeral-converter)
 
+### Day 24: October 26, 2016
+
+**Today's Progress**: Finished the some more algorithm scripting challenges.
+
+**Thoughts:** Finsihed a couple more of the algorithm challenges. Had a little better flow this time.
+
+**Link to work:** 
+1. [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
+2. [Search and Replace](https://www.freecodecamp.com/challenges/search-and-replace)
+3. [Pig Latin](https://www.freecodecamp.com/challenges/pig-latin)
