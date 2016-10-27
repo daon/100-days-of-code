@@ -190,7 +190,7 @@ get a better structure of my js code.
 
 ### Day 24: October 26, 2016
 
-**Today's Progress**: Finished the some more algorithm scripting challenges.
+**Today's Progress**: Finished some more algorithm scripting challenges.
 
 **Thoughts:** Finsihed a couple more of the algorithm challenges. Had a little better flow this time.
 
@@ -198,3 +198,15 @@ get a better structure of my js code.
 1. [Wherefore art thou](https://www.freecodecamp.com/challenges/wherefore-art-thou)
 2. [Search and Replace](https://www.freecodecamp.com/challenges/search-and-replace)
 3. [Pig Latin](https://www.freecodecamp.com/challenges/pig-latin)
+
+### Day 25: October 27, 2016
+
+**Today's Progress**: Finished some more algorithm scripting challenges.
+
+**Thoughts:** I need to use MDN more it is a great resource.
+
+**Link to work:** 
+1. [DNA Pairing](https://www.freecodecamp.com/challenges/dna-pairing)
+2. [Missing letters](https://www.freecodecamp.com/challenges/missing-letters)
+3. [Boo who](https://www.freecodecamp.com/challenges/boo-who)
+4. [Sorted Union](https://www.freecodecamp.com/challenges/sorted-union)
