@@ -210,3 +210,13 @@ get a better structure of my js code.
 2. [Missing letters](https://www.freecodecamp.com/challenges/missing-letters)
 3. [Boo who](https://www.freecodecamp.com/challenges/boo-who)
 4. [Sorted Union](https://www.freecodecamp.com/challenges/sorted-union)
+
+### Day 26: October 28, 2016
+
+**Today's Progress**: Finished some more algorithm scripting challenges. Mostly regex stuff.
+
+**Thoughts:** It's pretty easy to get started and write code now, it feels quite natural.
+
+**Link to work:** 
+1. [Convert HTML Entities](https://www.freecodecamp.com/challenges/convert-html-entities)
+2. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
