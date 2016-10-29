@@ -220,3 +220,12 @@ get a better structure of my js code.
 **Link to work:** 
 1. [Convert HTML Entities](https://www.freecodecamp.com/challenges/convert-html-entities)
 2. [Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
+
+
+### Day 27: October 29, 2016
+
+**Today's Progress**: Finished some more algorithm scripting challenges. Finsished a fibonacci challenge and started on a prime number challenge.
+
+**Thoughts:** It was fun to work with this challenges. I even managed to crash my browser when I was trying to calculate the fibonacci numbers recursive :P
+
+**Link to work:** [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
