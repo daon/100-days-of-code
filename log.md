@@ -229,3 +229,11 @@ get a better structure of my js code.
 **Thoughts:** It was fun to work with this challenges. I even managed to crash my browser when I was trying to calculate the fibonacci numbers recursive :P
 
 **Link to work:** [Sum All Odd Fibonacci Numbers](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)
+
+### Day 28: October 30, 2016
+
+**Today's Progress**: Finished some more algorithm scripting challenges. Finsished Sum All Primes challenge and started on a Smallest Common Multiple challenge. Learn how to use Array.prototype.sort function. Read about Euclidean algorithm.
+
+**Thoughts:** Trying to read more to get a better understanding.
+
+**Link to work:** [Sum All Primes](https://www.freecodecamp.com/challenges/sum-all-primes)
