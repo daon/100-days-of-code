@@ -238,7 +238,7 @@ get a better structure of my js code.
 
 **Link to work:** [Sum All Primes](https://www.freecodecamp.com/challenges/sum-all-primes)
 
-### Day 29: October 31, 2016
+### Day 30: November 1, 2016
 
 **Today's Progress**: Finished the last intermediate algorithm challenges. Learned about closures and how to use parseInt to parse a binary string to decimal.
 
