@@ -240,12 +240,13 @@ get a better structure of my js code.
 
 ### Day 29: October 31, 2016
 
-**Today's Progress**: Finished some more algorithm scripting challenges. Learn how to use Euclidean alghoritm to calculate greatest common divisor. I then used it to calculate the least common multiplier. I learn how to use Array.prototype.shift and Array.prototype.unshift functions.
+**Today's Progress**: Finished the last intermediate algorithm challenges. Learned about closures and how to use parseInt to parse a binary string to decimal.
 
-**Thoughts:** Having a hard time to figure out what to write in this logs. 
+**Thoughts:** These challenges went quite easy.
 
 **Link to work:** 
-1. [Smallest Common Multiple](https://www.freecodecamp.com/challenges/smallest-common-multiple)
-2. [Finders Keepers](https://www.freecodecamp.com/challenges/finders-keepers)
-3. [Drop it](https://www.freecodecamp.com/challenges/drop-it)
+1. [Steamroller](https://www.freecodecamp.com/challenges/steamroller)
+2. [Binary Agents](https://www.freecodecamp.com/challenges/binary-agents)
+3. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
+4. [Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
 
