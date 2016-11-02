@@ -262,3 +262,11 @@ get a better structure of my js code.
 3. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
 4. [Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
 
+### Day 31: November 2, 2016
+
+**Today's Progress**: Started on FCC advance algorithm challenges. Learned about Regex. Used http://regexr.com/ to construct it.
+
+**Thoughts:** First time I really constructed a regex that complicated by myself, which was a great learning expirience. 
+
+**Link to work:** [Validate US Telephone Numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+
