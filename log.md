@@ -270,3 +270,11 @@ get a better structure of my js code.
 
 **Link to work:** [Validate US Telephone Numbers](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
 
+### Day 32: November 3, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Learned some about set theory. 
+
+**Thoughts:** This one was really challenging, but fun!
+
+**Link to work:** [Symmetric Difference](https://www.freecodecamp.com/challenges/symmetric-difference)
+
