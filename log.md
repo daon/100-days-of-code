@@ -278,3 +278,11 @@ get a better structure of my js code.
 
 **Link to work:** [Symmetric Difference](https://www.freecodecamp.com/challenges/symmetric-difference)
 
+### Day 33: November 4, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Stuck on Exact Change challenge.
+
+**Thoughts:** I'm really struggling with this one. 
+
+**Link to work:** [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
+
