@@ -286,3 +286,11 @@ get a better structure of my js code.
 
 **Link to work:** [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
 
+### Day 34: November 5, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Some progress on Exact Change challenge.
+
+**Thoughts:** I have managed to fixed the most difficult tasks but I have some left and some cleanup to do.
+
+**Link to work:** [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
+
