@@ -294,3 +294,13 @@ get a better structure of my js code.
 
 **Link to work:** [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
 
+### Day 35: November 6, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Finally completed the Exact Change challenge and I also managed to complete the Inventory Update challenge.
+
+**Thoughts:** I'm getting more comfortable working with arrays and objects in JavaScript.
+
+**Link to work:** 
+1. [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
+2. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update)
+
