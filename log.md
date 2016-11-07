@@ -304,3 +304,10 @@ get a better structure of my js code.
 1. [Exact Change](https://www.freecodecamp.com/challenges/exact-change)
 2. [Inventory Update](https://www.freecodecamp.com/challenges/inventory-update)
 
+### Day 36: November 7, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Started on the No repeats please challenge. I have figured out how to calculate the total number of permutations. I have to figure out how to create the strings to do regex on. So that I can return the permutations that don't have repeated consecutive letters.
+
+**Thoughts:** Was a little tired today, so my progress was quite slow. 
+
+**Link to work:** [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
