@@ -311,3 +311,11 @@ get a better structure of my js code.
 **Thoughts:** Was a little tired today, so my progress was quite slow. 
 
 **Link to work:** [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
+
+### Day 37: November 8, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Finished No repeats challenge. Learned some more about regex how to use backreferenc, negative lookahead and Heap's Permutation Algorithm.
+
+**Thoughts:** This was a challenging one, made some wrong turns until i found out about the Heps algorithm. 
+
+**Link to work:** [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
