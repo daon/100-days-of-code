@@ -319,3 +319,11 @@ get a better structure of my js code.
 **Thoughts:** This was a challenging one, made some wrong turns until i found out about the Heps algorithm. 
 
 **Link to work:** [No repeats please](https://www.freecodecamp.com/challenges/no-repeats-please)
+
+### Day 38: November 9, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Finished Friendly Date Ranges challenge. Learned some about javascript dates. 
+
+**Thoughts:** Had a good flow today. I did not focus that much on efficiency. I instead tried to make the code as understandable i could.
+
+**Link to work:** [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
