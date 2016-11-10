@@ -327,3 +327,11 @@ get a better structure of my js code.
 **Thoughts:** Had a good flow today. I did not focus that much on efficiency. I instead tried to make the code as understandable i could.
 
 **Link to work:** [Friendly Date Ranges](https://www.freecodecamp.com/challenges/friendly-date-ranges)
+
+### Day 39: November 10, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Finished Make a Person challenge. Learned some about javascript closures, lexical scoping, how to emulate private methods and differences between class and prototype based object-systems. 
+
+**Thoughts:** The reading material was really good, but I think I have to go back to it later so I can fully understand it.
+
+**Link to work:** [Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
