@@ -344,3 +344,11 @@ get a better structure of my js code.
 
 **Link to work:** [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
 
+### Day 41: November 12, 2016
+
+**Today's Progress**: Finished FCC advance algorithm challenges. Finished the Pairwise challenge.
+
+**Thoughts:** I solved the challenge but I feel that it is possible to do some performance improvements.
+
+**Link to work:** [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
+
