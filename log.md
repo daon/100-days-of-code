@@ -335,3 +335,12 @@ get a better structure of my js code.
 **Thoughts:** The reading material was really good, but I think I have to go back to it later so I can fully understand it.
 
 **Link to work:** [Make a Person](https://www.freecodecamp.com/challenges/make-a-person)
+
+### Day 40: November 11, 2016
+
+**Today's Progress**: Continued on FCC advance algorithm challenges. Finished Map the Debris challenge.
+
+**Thoughts:** Worked in two half hour session this time. It was quite good for this challenge becuase I had to read alot to understand what I had to do, and the break made me clear my mind before continued. 
+
+**Link to work:** [Map the Debris](https://www.freecodecamp.com/challenges/map-the-debris)
+
