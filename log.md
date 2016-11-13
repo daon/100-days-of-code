@@ -352,3 +352,11 @@ get a better structure of my js code.
 
 **Link to work:** [Pairwise](https://www.freecodecamp.com/challenges/pairwise)
 
+### Day 42: November 13, 2016
+
+**Today's Progress**: Started on JavaScript Calculator project. Setup a git repository with readme, .gitignore file and readme. Installed yarn package manager and jest test framework. Created and implemented test for add function. 
+
+**Thoughts:** I am using my own environment instead of codepen for this project. Trying to keep it as simple as possible.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
