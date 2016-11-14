@@ -360,3 +360,10 @@ get a better structure of my js code.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
 
+### Day 43: November 14, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Rewrote test and implentation from the beginning. Trying to make my first operation 1+2=3 to work.
+
+**Thoughts:** I am struggling with finding a good data structure but I'm testing my way towards a solution.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
