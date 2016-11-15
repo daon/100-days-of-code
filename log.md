@@ -367,3 +367,11 @@ get a better structure of my js code.
 **Thoughts:** I am struggling with finding a good data structure but I'm testing my way towards a solution.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 44: November 15, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Was able to make operation 1+2=3 to work.
+
+**Thoughts:** I'm getting more use to work with TDD but i sometimes move away from the workflow to test some ideas I may have.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
