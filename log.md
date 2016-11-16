@@ -376,7 +376,7 @@ get a better structure of my js code.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
 
-### Day 44: November 16, 2016
+### Day 45: November 16, 2016
 
 **Today's Progress**: Continued on JavaScript Calculator project. Started from the begining again...trying to use a command pattern.
 
