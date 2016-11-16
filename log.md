@@ -375,3 +375,11 @@ get a better structure of my js code.
 **Thoughts:** I'm getting more use to work with TDD but i sometimes move away from the workflow to test some ideas I may have.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 44: November 15, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Started from the begining again...trying to use a command pattern.
+
+**Thoughts:** Hoppfully I can get it right this time, it is the state management I'm struggling with.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
