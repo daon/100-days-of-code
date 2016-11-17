@@ -383,3 +383,11 @@ get a better structure of my js code.
 **Thoughts:** Hoppfully I can get it right this time, it is the state management I'm struggling with.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 46: November 17, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Hm going in circles. 
+
+**Thoughts:** I kind of stuck, I feel like I have a great idea about what i should do, but I keep rewriting the code when it gets to complex. I think I need to go back to pen and paper to think this through. 
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
