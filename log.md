@@ -391,3 +391,11 @@ get a better structure of my js code.
 **Thoughts:** I kind of stuck, I feel like I have a great idea about what i should do, but I keep rewriting the code when it gets to complex. I think I need to go back to pen and paper to think this through. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 47: November 18, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. No i'm going with my current solution. 
+
+**Thoughts:** Worked late today, but was not that tired so it went quite well.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
