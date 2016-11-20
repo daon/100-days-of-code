@@ -400,11 +400,18 @@ get a better structure of my js code.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
 
-
 ### Day 48: November 19, 2016
 
 **Today's Progress**: Continued on JavaScript Calculator project. Had some progress but not as much as i want. 
 
 **Thoughts:** One thing that I have noticed is that I can feel bad because of it can be hard with this challenges and projects because you want great progress every day.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 49: November 20, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Refactor some code. 
+
+**Thoughts:** I finally came up with a structure of my code that I am satisfied with. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
