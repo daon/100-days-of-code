@@ -399,3 +399,12 @@ get a better structure of my js code.
 **Thoughts:** Worked late today, but was not that tired so it went quite well.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+
+### Day 48: November 19, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Had some progress but not as much as i want. 
+
+**Thoughts:** One thing that I have noticed is that I can feel bad because of it can be hard with this challenges and projects because you want great progress every day.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
