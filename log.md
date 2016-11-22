@@ -415,3 +415,11 @@ get a better structure of my js code.
 **Thoughts:** I finally came up with a structure of my code that I am satisfied with. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 50: November 21, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Added functionality to clear all inputs and to clear current input. Also added code to handle digit limit. 
+
+**Thoughts:** Getting close to something that I can start to create an UI around. I am gettings better on the TDD flow but I have to improve on my git commits.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
