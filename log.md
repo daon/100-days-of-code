@@ -431,3 +431,11 @@ get a better structure of my js code.
 **Thoughts:** I happy enough with my tests and code to start on the ui, it will be intresting to see which edge cases I have missed.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 52: November 23, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Worked on flex grid to position buttons on the calculator.
+
+**Thoughts:** I am having a little bit of problem with getting the buttons to line up when adding margins. 
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
