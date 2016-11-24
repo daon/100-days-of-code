@@ -439,3 +439,11 @@ get a better structure of my js code.
 **Thoughts:** I am having a little bit of problem with getting the buttons to line up when adding margins. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 53: November 24, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Finished mobile view of calculator. Started on binding events to buttons.
+
+**Thoughts:** I have seperated the calculator logic from event binding and DOM manipulation. It's works so far but I think I can improve it a little bit.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
