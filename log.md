@@ -447,3 +447,11 @@ get a better structure of my js code.
 **Thoughts:** I have seperated the calculator logic from event binding and DOM manipulation. It's works so far but I think I can improve it a little bit.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 54: November 25, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Connected the display to the entry and expression output. Found some bugs.
+
+**Thoughts:** Maybe I should use a git flow next project, like a branch per day or something can be a good start.
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
