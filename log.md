@@ -455,3 +455,11 @@ get a better structure of my js code.
 **Thoughts:** Maybe I should use a git flow next project, like a branch per day or something can be a good start.
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 55: November 26, 2016
+
+**Today's Progress**: Continued on JavaScript Calculator project. Added webpack to project. Still have some bugs I need to fix.
+
+**Thoughts:** Trying to find a simple setup to use in my projects. 
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
