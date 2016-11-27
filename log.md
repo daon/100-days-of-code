@@ -463,3 +463,11 @@ get a better structure of my js code.
 **Thoughts:** Trying to find a simple setup to use in my projects. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 56: November 27, 2016
+
+**Today's Progress**: Finished my JavaScript Calculator project. Fixed the last bugs. 
+
+**Thoughts:** Did not put that much into the design of the calculator so there is still some improvements that can be made. 
+
+**Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
