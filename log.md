@@ -471,3 +471,11 @@ get a better structure of my js code.
 **Thoughts:** Did not put that much into the design of the calculator so there is still some improvements that can be made. 
 
 **Link to work:** [JavaScript Calculator](https://github.com/daon/javascript-calculator)
+
+### Day 57: November 28, 2016
+
+**Today's Progress**: Started on pomodoro clock project. Created basic project structure. Started on a basic ui. Trying to configure webpack to auto reload css and html. 
+
+**Thoughts:** Tried with git branch based on day, but then I may have to push broken code. So maybe it is not that good approach. But I will stick with it for this project. 
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
