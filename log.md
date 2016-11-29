@@ -479,3 +479,11 @@ get a better structure of my js code.
 **Thoughts:** Tried with git branch based on day, but then I may have to push broken code. So maybe it is not that good approach. But I will stick with it for this project. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 58: November 29, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Configured webpack dev server to auto reload index.html and css. 
+
+**Thoughts:** My current flow for git is that I create a new branch each day then when I finnished with my coding I create a tag. I merge the branch into master and delete the branch. I finnaly push the changes to github. My thought is that I will be able to go back to see my progress later on. I don't know if it has any value, but I will stick with it for now. At least I get some practising with git and github.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
