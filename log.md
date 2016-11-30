@@ -487,3 +487,11 @@ get a better structure of my js code.
 **Thoughts:** My current flow for git is that I create a new branch each day then when I finnished with my coding I create a tag. I merge the branch into master and delete the branch. I finnaly push the changes to github. My thought is that I will be able to go back to see my progress later on. I don't know if it has any value, but I will stick with it for now. At least I get some practising with git and github.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 59: November 30, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Started to work on the first user story. Worked on the appearance for the clock.
+
+**Thoughts:** Having some trubble to focus on one thing at a time. I think I overworked the project structure.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
