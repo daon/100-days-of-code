@@ -495,3 +495,11 @@ get a better structure of my js code.
 **Thoughts:** Having some trubble to focus on one thing at a time. I think I overworked the project structure.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 60: December 1, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Finished with the an basic appearance that I like. Trying to implement the functionality for the pomodoro clock using the [SAM pattern](http://sam.js.org).
+
+**Thoughts:** I experimenting with the SAM pattern and hopefully I will be able to understand it better after applying it on this project.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
