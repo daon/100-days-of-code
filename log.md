@@ -511,3 +511,11 @@ get a better structure of my js code.
 **Thoughts:** I decied which model I should use. I was unsure if the model should be keeping track of minutes or seconds or should just be a counter. I decided to use a counter and then in the view convert it to minutes and seconds. So far I feel quite confident that I have chosen the right model.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 62: December 3, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Worked on the state machine for the pomodoro clock. 
+
+**Thoughts:** I really like working with the SAM pattern so far. Using state machines makes the flow of the app very clear.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
