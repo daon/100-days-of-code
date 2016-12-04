@@ -519,3 +519,11 @@ get a better structure of my js code.
 **Thoughts:** I really like working with the SAM pattern so far. Using state machines makes the flow of the app very clear.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 63: December 4, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Finished my state machine for starting a session, starting a break session and pausing both a session or a break.  
+
+**Thoughts:** I started to thinking about how I could achieve better separations of concerns. This may be a starting point - https://github.com/jdubray/startbootstrap-clean-blog/tree/master/sam
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
