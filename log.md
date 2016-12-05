@@ -527,3 +527,11 @@ get a better structure of my js code.
 **Thoughts:** I started to thinking about how I could achieve better separations of concerns. This may be a starting point - https://github.com/jdubray/startbootstrap-clean-blog/tree/master/sam
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 64: December 5, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Started to work on html for changing the break and session length. 
+
+**Thoughts:** Was really tired today was really hard to focus. But I at least got some work done.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
