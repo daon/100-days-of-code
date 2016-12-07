@@ -543,3 +543,11 @@ get a better structure of my js code.
 **Thoughts:** Did not create any tests in the beginning while I was learning the SAM pattern, no when I want to refactor some part and it is getting a little bit cumbersome to add new functionality I wanted some tests. But I needed to refactor the code to make that possible. 
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 66: December 7, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Refactored and created first tests. 
+
+**Thoughts:** I'm not totally confident how to best write tests for the SAM pattern. Will have to try some different approaches.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
