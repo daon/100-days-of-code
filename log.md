@@ -551,3 +551,12 @@ get a better structure of my js code.
 **Thoughts:** I'm not totally confident how to best write tests for the SAM pattern. Will have to try some different approaches.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
+### Day 67: December 8, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Removed event listeners and added event handling directly in views. Refactored views into components. 
+
+**Thoughts:** Did not write any tests today...not good, need more practicing!
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
