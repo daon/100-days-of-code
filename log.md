@@ -560,3 +560,11 @@ get a better structure of my js code.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
 
+### Day 68: December 9, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Fixed state transition from session to break. Added a reset action.
+
+**Thoughts:** Worked on the plane today on my way to my parents home. Went really good :)
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
