@@ -568,3 +568,11 @@ get a better structure of my js code.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
 
+### Day 69: December 10, 2016
+
+**Today's Progress**: Continued on pomodoro clock project. Worked on styles on the project.
+
+**Thoughts:** Had a good flow today when working. I am just working on the last details.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
