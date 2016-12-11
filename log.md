@@ -576,3 +576,11 @@ get a better structure of my js code.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
 
+### Day 70: December 11, 2016
+
+**Today's Progress**: Completed pomodoro clock project. Worked on show/hide settings.
+
+**Thoughts:** I am satisfied with the project but there is still some improvements that can be made.
+
+**Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
+
