@@ -584,3 +584,11 @@ get a better structure of my js code.
 
 **Link to work:** [Pomodoro Clock](https://github.com/daon/pomodoro-clock)
 
+### Day 71: December 12, 2016
+
+**Today's Progress**: Experimenting with Cellular Automaton. Created first random generation. Started on cloning second generation.
+
+**Thoughts:** Took a short break from FCC to do something else for a while.
+
+**Link to work:** [Cellular Automaton](https://github.com/daon/cellular-automaton)
+
