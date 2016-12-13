@@ -592,3 +592,11 @@ get a better structure of my js code.
 
 **Link to work:** [Cellular Automaton](https://github.com/daon/cellular-automaton)
 
+### Day 72: December 13, 2016
+
+**Today's Progress**: Continued Experimenting with Cellular Automaton. Added option to select different rules and change simple or random initial condition.
+
+**Thoughts:** The code is not the best but I think is quite easy to understand. Fun small project.
+
+**Link to work:** [Cellular Automaton](https://github.com/daon/cellular-automaton)
+
