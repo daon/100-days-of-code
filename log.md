@@ -600,3 +600,11 @@ get a better structure of my js code.
 
 **Link to work:** [Cellular Automaton](https://github.com/daon/cellular-automaton)
 
+### Day 73: December 14, 2016
+
+**Today's Progress**: Started on Tic Tac Toe project. Started working on the look and feel.
+
+**Thoughts:** Thinking of making the desing look and feel like a retro game.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
