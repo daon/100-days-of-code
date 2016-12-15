@@ -608,3 +608,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 74: December 15, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Worked on select players screen.
+
+**Thoughts:** I'm trying to challenge myself with the design, but I feel like I don't have any good ideas.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
