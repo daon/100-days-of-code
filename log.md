@@ -616,3 +616,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 75: December 16, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Worked on grid.
+
+**Thoughts:** I am wondering how I should implement the AI when playing one player games.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
