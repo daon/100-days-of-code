@@ -632,3 +632,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 77: December 18, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Added functionality to select number of players, and witch type of checker to use. 
+
+**Thoughts:** I starting to loose some motiviation, soo is trying to do simple things I know. Maybe I will gain some new motivation under the holidays. But I will keep on going, I am not far from my goal to complete the challenge.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
