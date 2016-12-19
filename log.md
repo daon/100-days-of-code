@@ -640,3 +640,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 78: December 19, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Added webpack. 
+
+**Thoughts:** Decided to go with webpack again. I want to tweek it so it is simple to deploy to github pages.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
