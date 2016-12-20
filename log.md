@@ -648,3 +648,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 79: December 20, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Replaced webpack 1 with webpack 2. Configured deployment to GitHub Pages.
+
+**Thoughts:** Thinking of trying out Redux instead of SAM pattern, may replace it next time. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
