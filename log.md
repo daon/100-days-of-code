@@ -656,3 +656,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 80: December 21, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Added mocha and chai for testing. Removed old implementation to start of with TDD instead.
+
+**Thoughts:** Trying to understand how to implement Minimax algorithm and how to do it in a TDD way.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
