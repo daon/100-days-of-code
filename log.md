@@ -664,3 +664,10 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 81: December 22, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Created first tests for two player game.
+
+**Thoughts:** Changed strategy from implementing AI first to implementing a two player game instead.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
