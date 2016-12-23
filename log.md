@@ -671,3 +671,12 @@ get a better structure of my js code.
 **Thoughts:** Changed strategy from implementing AI first to implementing a two player game instead.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
+### Day 82: December 23, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Continued writing tests for two player game. Started with the first rules.
+
+**Thoughts:** Have some shared state in my code, and thinking how I can better control it. But will not worry to much about it right now.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
