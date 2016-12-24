@@ -680,3 +680,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 83: December 24, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Continued writing tests for two player game. Did some refactoring to remove shared state. 
+
+**Thoughts:** Because of the refactoring I did not had as much progress today as I wanted, but I hade some at least.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
