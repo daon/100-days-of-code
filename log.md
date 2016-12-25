@@ -688,3 +688,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 84: December 25, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Wrote some more test and did some refactoring of both the code and the tests. 
+
+**Thoughts:** Think I will start to connect the business logic to the html next time. Thinking about to write some End-To-End test.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
