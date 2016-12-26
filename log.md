@@ -696,3 +696,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 85: December 26, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Can add X and O by clicking empty cells on the board. 
+
+**Thoughts:** Decided to change back to the SAM pattern because I wanted to try it out one more time. Will convert my tests to to work with the new pattern. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
