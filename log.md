@@ -704,3 +704,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 86: December 27, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Refactored tests to work with the SAM Pattern. 
+
+**Thoughts:** My webpack configurations seems not to work because it does not auto reload. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
