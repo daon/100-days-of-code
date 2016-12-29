@@ -712,3 +712,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 87: December 28, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Applied the rules to check for winning moves.
+
+**Thoughts:** Not much progress but I am getting there.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
