@@ -720,3 +720,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 88: December 29, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Can play a two player game and restart when finished.
+
+**Thoughts:** Work on the buss to the airport and some on the airport and both times was a good experience. Will start with the AI tomorrow.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
