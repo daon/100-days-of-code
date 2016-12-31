@@ -736,3 +736,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 90: December 31, 2016
+
+**Today's Progress**: Continued on Tic Tac Toe project. Continued to work some on the AI. Started to refactor out the board related functionality into a separate file.
+
+**Thoughts:** Even do I have had some slow progress lately I have overall this year learned a lot. Looking forward for the challenges to come next year. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
