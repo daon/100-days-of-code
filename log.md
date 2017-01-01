@@ -744,3 +744,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 91: Januari 1, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Refactor out the board related functionality into a separate file.
+
+**Thoughts:** Was really tired today so my progress was slow.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
