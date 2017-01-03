@@ -752,3 +752,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 92: Januari 2, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Started with a simplerer AI just to get some progress. The AI is really stupid and just generating random a position for an empty cell.
+
+**Thoughts:** With the new simpler way of trying to solve the ai I had a lot more progress.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
