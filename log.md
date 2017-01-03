@@ -760,3 +760,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 93: Januari 3, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. I have finnished all user stories. I can play against a computer player who select a random empty cell. I can choose between X or O in the beginning and the game resets when game is over.
+
+**Thoughts:** I solved all user stories but I want to implement the minimax algorithm. Hopefully I should be able to do that by replacing my randomPositionComputer using the same interface.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
