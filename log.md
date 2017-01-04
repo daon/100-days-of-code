@@ -768,3 +768,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 94: Januari 4, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Did some fine tuning of the appearance for the game. Added a new computer player who desides the next position by some simple rules.
+
+**Thoughts:** Tried to use waffle.io to plan ahead before started to program. Will try some more to see if it can keep me more focues on one task.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
