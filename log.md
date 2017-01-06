@@ -784,3 +784,12 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 96: Januari 6, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Refactored the tests for the cells and board.
+
+**Thoughts:** I feel like I am improving my skills in testing, but I need to practice even more to feel confortable to work tdd.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
+
