@@ -776,3 +776,11 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 95: Januari 5, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Started refactor to use factory functions to create cells and the board.
+
+**Thoughts:** I can probably simplify a lot of logic after the refactoring. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
