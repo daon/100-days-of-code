@@ -792,4 +792,12 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 97: Januari 7, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Refactored the api once more to use a more datadriven approach.
+
+**Thoughts:** I have change the api a lot, which is not good because I don't have that much progress but at least I get to practice different ways to implement a solution. 
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
 
