@@ -800,4 +800,12 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 98: Januari 8, 2017
+
+**Today's Progress**: Continued on Tic Tac Toe project. Today I totally broke the game :P So progress is more or less 0, maybe -1.
+
+**Thoughts:** I am thinking about to revert it back to when I had a working game. Because I am working in circles without really improving anything. I just change things. So I think I need a break to work on something else for a while.
+
+**Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
+
 
