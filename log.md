@@ -808,4 +808,12 @@ get a better structure of my js code.
 
 **Link to work:** [Tic Tac Toe](https://daon.github.io/tic-tac-toe/)
 
+### Day 99: Januari 9, 2017
+
+**Today's Progress**: Started on a new project to learn more about using canvas. Createat a canvas and draw a falling particle that bounce.
+
+**Thoughts:** Needed a break from my tic-tac-toe project so started something completly different. It feels good so far.
+
+**Link to work:** [Big Lake](https://daon.github.io/big-lake/)
+
 
