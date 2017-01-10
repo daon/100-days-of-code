@@ -816,4 +816,12 @@ get a better structure of my js code.
 
 **Link to work:** [Big Lake](https://daon.github.io/big-lake/)
 
+### Day 100: Januari 10, 2017
+
+**Today's Progress**: Finished my little canvas project. Created a type of raining effect.
+
+**Thoughts:** I DID IT! 100 days of code! It was fun, challenging but most of all I did learn a lot. 
+
+**Link to work:** [Big Lake](https://daon.github.io/big-lake/)
+
 
